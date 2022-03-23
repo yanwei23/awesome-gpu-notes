@@ -134,5 +134,5 @@ NCCL是一种多GPU、多节点通信原语，针对 NVIDIA GPU 通信进行了�
 
    ​                    Batch-size大小 --batch_size 256
 
-   ​                    数据精度            --precision fp16
+   ​                    数据精度            --precision fp16  使用fp32精度则改为--precision fp32
 
