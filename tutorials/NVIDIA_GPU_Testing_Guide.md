@@ -99,7 +99,7 @@ NCCL是一种多GPU、多节点通信原语，针对 NVIDIA GPU 通信进行了�
 
 ### 1.2 DL性能测试
 
-#### 2.2.1 ResNet50
+#### 1.2.1 ResNet50
 
 本测试基于TensorFlow框架，使用随机生成的合成数据集，通过resnet50网络进行测试。
 
